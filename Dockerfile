@@ -4,9 +4,9 @@ ADD http://ci.mengcraft.com:8080/job/nukkit/lastSuccessfulBuild/artifact/target/
 
 ADD nukkit.yml /
 
-ADD server.properties /
+#ADD server.properties /
 
-ADD white-list.txt /
+#ADD white-list.txt /
 
 EXPOSE 19132
 
