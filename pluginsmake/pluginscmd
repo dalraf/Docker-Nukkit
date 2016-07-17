@@ -1,9 +1,0 @@
-
-git clone https://github.com/SW-Team/PureEntities.git
-cd PureEntities
-mvn package
-cd target
-cp PureEntities-1.0.jar /plugins
-cd PureEntities-V1.0.jar /plugins
-https://github.com/SW-Team/EntityManager
-cp -r EntityManager /plugins
