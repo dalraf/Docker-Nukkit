@@ -5,5 +5,5 @@ mvn package
 cd target
 cp PureEntities-1.0.jar /plugins
 cd PureEntities-V1.0.jar /plugins
-git clone https://github.com/milk0417/EntityManager.git
+https://github.com/SW-Team/EntityManager
 cp -r EntityManager /plugins
