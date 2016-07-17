@@ -1,3 +1,3 @@
 #!/bin/bash
-docker pull java:openjdk-8-alpine
+docker pull java
 docker build -t dalraf/nukkit .

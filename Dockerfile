@@ -1,4 +1,4 @@
-FROM java:openjdk-8-alpine
+FROM java
 
 ADD http://ci.mengcraft.com:8080/job/nukkit/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar /nukkit.jar
 
